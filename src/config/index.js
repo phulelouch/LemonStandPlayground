@@ -1,5 +1,5 @@
 // Site URL
-const SITE_URL = 'https://app.lemonstandplayground.com';
+const SITE_URL = '';
 
 // PRODUCTS_IAP moved to setup in the LearnPress Settings > Mobile App > Courses In App Purchases
 
