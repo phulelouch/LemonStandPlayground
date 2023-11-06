@@ -1,0 +1,6 @@
+{
+  "name": "app-assets",
+  "private": true,
+  "license": "MIT",
+  "main": "index.js"
+}

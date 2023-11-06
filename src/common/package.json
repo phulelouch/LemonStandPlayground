@@ -1,0 +1,6 @@
+{
+  "name": "app-common",
+  "private": true,
+  "license": "MIT",
+  "main": "index.js"
+}

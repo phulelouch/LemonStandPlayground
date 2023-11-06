@@ -1,0 +1,6 @@
+{
+  "name": "app-component",
+  "private": true,
+  "license": "MIT",
+  "main": "index.js"
+}
