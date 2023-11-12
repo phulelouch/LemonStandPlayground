@@ -6,3 +6,4 @@ To use, install node 16 and yarn create a new React Native project with the same
 Copy essential files
 Test with
 - ```yarn ios```
+[Demo img](./demo.png)
